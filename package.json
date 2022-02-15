@@ -1,0 +1,22 @@
+{
+  "name": "GameHouseAssessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "make-thumbs": "./topwards.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "event-stream": "^4.0.1",
+    "jimp": "^0.16.1",
+    
+    "rimraf": "^3.0.2"
+  }
+}
